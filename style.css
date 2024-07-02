@@ -29,7 +29,7 @@ body{
     border: none;
     box-shadow: 0 0 1rem rgb(0,0,0,0.5);
     font-size: 8vmin;
-    color: #b0413e;
+/*     color: #b0413e; */
     background-color: #ffffc7;
 }
 #reset-btn{
@@ -63,4 +63,11 @@ body{
 
 .hide{
     display: none;
+}
+.X{
+    color: green;
+}
+
+.O{
+    color: blue;
 }
